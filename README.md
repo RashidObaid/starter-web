@@ -17,3 +17,7 @@ The main purpose of this repository is to provide Git training.
 Deployment can be done on any web server or even local file system.
 
 ## How To Contribute
+
+### Copyright
+
+Copyright Git.Training
