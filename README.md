@@ -18,6 +18,8 @@ Deployment can be done on any web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and issue pull request for review
+
 ### Copyright
 
 Copyright Git.Training
