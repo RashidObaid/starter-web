@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rashid Obaid -- rashidobaid9@gmail.com -- @robaid2
 
 # THANKS
 
